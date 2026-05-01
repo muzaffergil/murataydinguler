@@ -109,14 +109,14 @@ a:hover { color: var(--accent-hover); }
 }
 
 .brand-text strong {
-  font-size: 1.15rem;
+  font-size: 1.5rem;
   font-weight: 700;
   letter-spacing: 0.04em;
   color: var(--ink);
 }
 
 .brand-text small {
-  font-size: 0.85rem;
+  font-size: 1rem;
   letter-spacing: 0.32em;
   color: var(--ink-3);
   margin-top: 3px;
